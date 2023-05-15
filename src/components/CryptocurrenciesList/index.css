@@ -1,0 +1,16 @@
+.top-card {
+  background-color: #092e33;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  color: #ffffff;
+}
+.usd-euro-card {
+  display: flex;
+}
+.usd-heading {
+  margin-right: 15px;
+}
+.card {
+  border: 1px solid #00e7ff;
+}

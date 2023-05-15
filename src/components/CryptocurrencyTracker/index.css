@@ -1,0 +1,10 @@
+.container {
+  background-color: #000000;
+  color: #00e7ff;
+  text-align: center;
+  padding: 30px;
+}
+.ul-card {
+  list-style-type: none;
+  color: #ffffff;
+}

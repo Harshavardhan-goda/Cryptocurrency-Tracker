@@ -1,0 +1,21 @@
+.profile-card {
+  display: flex;
+}
+.li-card {
+  display: flex;
+  justify-content: space-between;
+}
+.paragraph-card {
+  display: flex;
+}
+.para {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.profile-img {
+  margin-top: 16px;
+  margin-right: 10px;
+  height: 40px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
